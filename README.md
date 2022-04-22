@@ -47,7 +47,7 @@ The benefits of using this prototype over already available products in market i
 
 ![alt text](https://github.com/shubhamxbajaj/Smart-Water-Controller/blob/main/screenshots/current_water_level_graph.jpg)
 
-* Here we have squarish box(this depicts the water tank) and we have the number of divisions as inputted in the step 1. We will be able to see the live water status in the tank. NOTE: The graph is not measured as per scale hence divisions are not 100% accurate. 
+* Here we have square box(this depicts the water tank) and we have the number of divisions as input in the step 1. We will be able to see the live water status in the tank. NOTE: The graph is not measured as per scale hence divisions are not 100% accurate. 
 
 * We have water pump status indicator as well. This indicator will automatically turn red when the water pump will be turned on.
 

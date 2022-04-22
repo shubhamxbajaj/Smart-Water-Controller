@@ -1,5 +1,14 @@
 # Smart-Water-Controller
 
+Summary:
+1. Prototype Description
+2. Prototype Features
+3. Prototype Working
+      1. Using app
+      2. Using Telegram
+4. Video Demonstration
+
+
 ## Prototype Description: This project makes use of ultrasonic sensor and nodemcu along with relay to automatically control water level in overhead tanks. ## 
 The benefits of using this prototype over already available products in market is that:
 * This prototype is extremely cheap and easy to maintain over any other available product.

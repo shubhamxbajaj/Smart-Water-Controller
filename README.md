@@ -49,7 +49,7 @@ The benefits of using this prototype over already available products in market i
 
 * Here we have square box(this depicts the water tank) and we have the number of divisions as input in the step 1. We will be able to see the live water status in the tank. NOTE: The graph is not measured as per scale hence divisions are not 100% accurate. 
 
-* We have water pump status indicator as well. This indicator will automatically turn red when the water pump will be turned on.
+* We have a water pump status indicator as well. This indicator will automatically turn red when the water pump is turned on.
 
 * We can set the water level according to our requirement by just sending a command using the "Set Water Level" Button in the Live Water Graph page. NOTE: This command will only work when set water level value is more than current water level and when water pump is turned off. 
 

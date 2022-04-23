@@ -75,6 +75,13 @@ The benefits of using this prototype over already available products in the mark
 
 
 
+## Full Video Demonstration ##
+
+This will redirect you to Youtube video.
+
+[![IMAGE ALT TEXT](https://github.com/shubhamxbajaj/Smart-Water-Controller/blob/main/screenshots/Capture.PNG)](https://youtu.be/yfa8hYIPRuM "Automatic smart water controller with real-time graph and telegram integration")
+
+
 
 
 

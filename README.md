@@ -3,10 +3,11 @@
 Summary:
 1. Prototype Description
 2. Prototype Features
-3. Prototype Working
+3. Prototype Requirements
+4. Prototype Working
       1. Using the app
       2. Using Telegram
-4. Video Demonstration
+5. Video Demonstration
 
 
 
@@ -28,7 +29,21 @@ The benefits of using this prototype over already available products in the mark
 * Allows users to view real-time water level graph using the app. 
 * Allows users to set the desired water level by simply giving a command(shown in the working part).
 * Allows users to view real-time water pump status using the app.
-* Can be configured with Telegram messaging app to get real-time updates. 
+* Can be configured with Telegram messaging app to get real-time updates.
+
+
+## Prototype Requirements: ##
+* Nodemcu or Wemos d1 mini(any esp8266 based microcontrolller)
+* Ultrasonic sensor(HC-SR04 used in this prototype)
+* Computer with Arduino IDE and all the required libraries(Refer to code)
+* Micro USB Cable for nodemcu
+* 5V power supply
+* WIFI siginal till Nodemcu
+* 5V DC Relay
+* Water pump for filling up water
+* Smartphone with telegram messaging app installed
+* Jumper wires 
+* Normal electrical wires 
       
  
 

@@ -53,7 +53,7 @@ The benefits of using this prototype over already available products in the mark
 
 * (STEP1) Set the length of the water tank and the number of divisions we want to see in the live tank graph by inputting the value in the app. Example: Assume the water tank length to be 1000mL, and we want to see 10 divisions in the live water level graph, then enter 10 in the number of divisions. (Screenshot below)
 
-![alt text](https://github.com/shubhamxbajaj/Smart-Water-Controller/blob/main/screenshots/WhatsApp%20Image%202022-04-22%20at%2011.08.21%20PM.jpeg)
+![alt text](https://github.com/shubhamxbajaj/Smart-Water-Controller/blob/main/screenshots/Reset%20Page.jpeg)
 
 * (STEP2) We get two options on the app. We can either reset the length of the water tank or view the live water status in the tank. (Screenshot below)
 
@@ -61,7 +61,7 @@ The benefits of using this prototype over already available products in the mark
 
 * (STEP3) If we press the "RESET GRAPH PARAMETERS" button, we will be sent to step 1 page. If we press the "LIVE WATER GRAPH" we will be sent to the Live water graph page. (Screenshot Below)
 
-![alt text](https://github.com/shubhamxbajaj/Smart-Water-Controller/blob/main/screenshots/current_water_level_graph.jpg)
+![alt text](https://github.com/shubhamxbajaj/Smart-Water-Controller/blob/main/screenshots/Live%20water%20graph.jpeg)
 
 * Here we have a square box(this depicts the water tank), and we have the number of divisions as inputted in step 1. We will be able to see the live water status in the tank. NOTE: The graph is not measured as per scale; hence divisions are not 100% accurate. 
 
@@ -73,16 +73,31 @@ The benefits of using this prototype over already available products in the mark
 
 * We can use Telegram Bot as well to monitor the water tank. The following screenshots show the working of it:
 
+1. Start message for telegram bot
+
+![alt text](https://github.com/shubhamxbajaj/Smart-Water-Controller/blob/main/screenshots/telegram_start_message.PNG)
+
+2. Get real-time water status message
+
+![alt text](https://github.com/shubhamxbajaj/Smart-Water-Controller/blob/main/screenshots/telegram_live_water_status.PNG)
+
+3. Get real-time water pump status
+
+![alt text](https://github.com/shubhamxbajaj/Smart-Water-Controller/blob/main/screenshots/telegram_water_pump_status.PNG)
+
+4. Get percentage of tank filed
+
+![alt text](https://github.com/shubhamxbajaj/Smart-Water-Controller/blob/main/screenshots/telegram_tank_percentage.PNG)
 
 
 ## Full Video Demonstration ##
 
 This will redirect you to Youtube video.
 
-[![IMAGE ALT TEXT](https://github.com/shubhamxbajaj/Smart-Water-Controller/blob/main/screenshots/Capture.PNG)](https://youtu.be/yfa8hYIPRuM "Automatic smart water controller with real-time graph and telegram integration")
+[![IMAGE ALT TEXT](https://github.com/shubhamxbajaj/Smart-Water-Controller/blob/main/screenshots/Thumbnail.PNG)](https://youtu.be/yfa8hYIPRuM "Automatic smart water controller with real-time graph and telegram integration")
 
 
-
+Thanks
 
 
 
